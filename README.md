@@ -1,1 +1,2 @@
-# Python_for_AI_Notes
+# Python_for_AI_Notes (In Progress...)
+
