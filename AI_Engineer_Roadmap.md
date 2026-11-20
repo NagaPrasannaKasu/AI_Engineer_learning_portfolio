@@ -2,7 +2,7 @@
 
 A personal, evolving roadmap organized into **5 phases and 18 topics**. The goal is to learn the foundations, build practical AI applications, and deploy and evaluate reliable systems.
 
-**Suggested timeline:** 26 weeks (6 months), approximately 4–5 hours per day. The schedule is a guide, not a requirement to master every subject within six months.
+*This is my current personal AI Engineering learning roadmap, informed by research into other roadmaps. It is a working plan that I intend to follow and refine as I learn.*
 
 ## Phase 1 — Programming & Data Foundations
 
@@ -261,16 +261,3 @@ A personal, evolving roadmap organized into **5 phases and 18 topics**. The goal
 - [ ] GDPR and EU AI Act awareness
 
 ---
-
-## How I Plan to Use This Roadmap
-
-- **Learn:** Study concepts in phase order while revisiting earlier topics as needed.
-- **Practice:** Write code and complete hands-on exercises for each major topic.
-- **Build:** Create projects combining multiple skills rather than only following tutorials.
-- **Evaluate:** Test correctness, reliability, cost and safety of AI applications.
-- **Document:** Write a short daily learning journal and publish useful project notes.
-- **Improve:** Update the roadmap as tools and my understanding evolve.
-
-**Priority:** Become strong in Python, APIs, RAG, agents, evaluation, FastAPI, Docker and practical deployment. Learn model theory deeply enough to reason about tradeoffs; treat advanced fine-tuning and Kubernetes as stretch topics within six months.
-
-*This is my current personal AI Engineering learning roadmap, informed by research into other roadmaps. It is a working plan that I intend to follow and refine as I learn.*
